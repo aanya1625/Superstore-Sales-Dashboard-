@@ -1,4 +1,5 @@
-# Superstore Sales Dashboard 📊
+# Superstore- Sales- Dashboard 📊
+🚀 Interactive Business Intelligence Dashboard built using Power BI
 
 ## 🔍 Overview
 This project is a Power BI dashboard that analyzes sales performance of a superstore dataset.
@@ -19,7 +20,7 @@ This project is a Power BI dashboard that analyzes sales performance of a supers
 
 ## 📂 Files Included
 - .pbix file (Power BI dashboard)
-- Dataset (if included)
+
 
 ## 📌 How to Use
 Download the .pbix file and open it in Power BI Desktop.
